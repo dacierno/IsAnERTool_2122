@@ -6,7 +6,9 @@
             <file>file:/Users/dacierno/OneDrive%20-%20I.S.A.%20CNR/ApacheNetbeansProjects/IsaAnERTool/IsAnERTool/src/isadbtool/gui/IsAnERToolGUI.java</file>
             <file>file:/Users/dacierno/OneDrive%20-%20I.S.A.%20CNR/ApacheNetbeansProjects/IsaAnERTool/IsAnERTool/src/isadbtool/gui/RunTimeParams.java</file>
         </group>
-        <group name="IsaAnERTool"/>
         <group name="Current Versions"/>
+        <group name="IsaAnERTool">
+            <file>file:/Users/dacierno/GitHub/IsAnERTool_2122/src/isadbtool/gui/IsAnERToolGUI.java</file>
+        </group>
     </open-files>
 </project-private>
