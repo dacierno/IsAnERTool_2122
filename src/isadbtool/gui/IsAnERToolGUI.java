@@ -34,7 +34,7 @@ public class IsAnERToolGUI extends JFrame {
     upperPanel = new JPanel();
     upperPanel.setBackground(Color.YELLOW);
     fileLabel = new JLabel("File Name: Not Defined");
-    fileLabel.setFont(new Font("TimesRoman", Font.BOLD, 14));
+    fileLabel.setFont(new Font("TimesRoman", Font.BOLD, 18));
     upperPanel.add(fileLabel);
     theTabbedPane = new TabbedPane(this);
     contentPanel = new JPanel();
